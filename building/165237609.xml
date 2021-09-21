@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="165237609">
+<nd ref="1767977221" lat="45.0193880" lon="39.0257510"/>
+<nd ref="1767977233" lat="45.0195149" lon="39.0257369"/>
+<nd ref="1767977235" lat="45.0195272" lon="39.0259579"/>
+<nd ref="1767977223" lat="45.0194003" lon="39.0259721"/>
+<nd ref="1767977221" lat="45.0193880" lon="39.0257510"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="35"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="Малая улица"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="1"/>
+<tag k="source" v="PG Mapping Project"/>
+</way>

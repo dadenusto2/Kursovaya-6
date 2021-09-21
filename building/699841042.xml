@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="699841042">
+<nd ref="6571993140" lat="45.0183553" lon="39.0269839"/>
+<nd ref="6571993141" lat="45.0182965" lon="39.0269919"/>
+<nd ref="6571993142" lat="45.0183041" lon="39.0271341"/>
+<nd ref="6571993143" lat="45.0183610" lon="39.0271287"/>
+<nd ref="6571993140" lat="45.0183553" lon="39.0269839"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="12"/>
+<tag k="addr:street" v="Малая улица"/>
+<tag k="building" v="yes"/>
+</way>

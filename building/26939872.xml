@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="26939872">
+<nd ref="295176810" lat="45.0179370" lon="39.0339952"/>
+<nd ref="295176809" lat="45.0181390" lon="39.0330302"/>
+<nd ref="295176808" lat="45.0180210" lon="39.0329802"/>
+<nd ref="295177242" lat="45.0178190" lon="39.0339452"/>
+<nd ref="295176810" lat="45.0179370" lon="39.0339952"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="230"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="apartments"/>
+<tag k="building:levels" v="5"/>
+<tag k="garmin_type" v="0x13"/>
+<tag k="source" v="AlexAR Mapping Project"/>
+</way>

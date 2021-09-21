@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="715155800">
+<nd ref="6721676480" lat="45.0217153" lon="39.0324998"/>
+<nd ref="6721676481" lat="45.0216911" lon="39.0324874"/>
+<nd ref="6721676482" lat="45.0217070" lon="39.0324251"/>
+<nd ref="6721676483" lat="45.0217312" lon="39.0324375"/>
+<nd ref="6721676480" lat="45.0217153" lon="39.0324998"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="149Г25"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="yes"/>
+</way>

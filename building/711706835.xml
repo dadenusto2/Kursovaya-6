@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="711706835">
+<nd ref="6691221946" lat="45.0189772" lon="39.0257646"/>
+<nd ref="6691221947" lat="45.0188957" lon="39.0257761"/>
+<nd ref="6691221948" lat="45.0188977" lon="39.0259029"/>
+<nd ref="6691221949" lat="45.0189882" lon="39.0258887"/>
+<nd ref="6691221946" lat="45.0189772" lon="39.0257646"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="212"/>
+<tag k="addr:street" v="улица КИМ"/>
+<tag k="building" v="yes"/>
+</way>

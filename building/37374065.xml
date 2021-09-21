@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="37374065">
+<nd ref="436210035" lat="45.0171353" lon="39.0317571"/>
+<nd ref="436210038" lat="45.0171233" lon="39.0318129"/>
+<nd ref="436210039" lat="45.0170957" lon="39.0318010"/>
+<nd ref="436210040" lat="45.0170767" lon="39.0318893"/>
+<nd ref="436210052" lat="45.0171009" lon="39.0318998"/>
+<nd ref="436210053" lat="45.0170890" lon="39.0319553"/>
+<nd ref="436210054" lat="45.0173300" lon="39.0320590"/>
+<nd ref="436210055" lat="45.0173729" lon="39.0318594"/>
+<nd ref="436210035" lat="45.0171353" lon="39.0317571"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="97/5"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Айвазовского"/>
+<tag k="building" v="hospital"/>
+<tag k="building:levels" v="4"/>
+</way>

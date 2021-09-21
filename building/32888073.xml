@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="32888073">
+<nd ref="370413059" lat="45.0215429" lon="39.0321561"/>
+<nd ref="370412962" lat="45.0216489" lon="39.0315967"/>
+<nd ref="370412954" lat="45.0213117" lon="39.0314687"/>
+<nd ref="370412950" lat="45.0211893" lon="39.0321138"/>
+<nd ref="1802680041" lat="45.0213677" lon="39.0321815"/>
+<nd ref="1802680042" lat="45.0213840" lon="39.0320958"/>
+<nd ref="370413059" lat="45.0215429" lon="39.0321561"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="149А"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="2"/>
+<tag k="name" v="Столовая"/>
+</way>

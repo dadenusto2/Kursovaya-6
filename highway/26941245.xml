@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="26941245">
+<nd ref="295171332" lat="45.0196342" lon="39.0278975"/>
+<nd ref="1213459472" lat="45.0197422" lon="39.0279430"/>
+<nd ref="430589290" lat="45.0200632" lon="39.0280775"/>
+<nd ref="430589294" lat="45.0208220" lon="39.0283897"/>
+<nd ref="8399076157" lat="45.0209108" lon="39.0284262"/>
+<nd ref="447750359" lat="45.0210067" lon="39.0284657"/>
+<nd ref="447750353" lat="45.0211189" lon="39.0285118"/>
+<nd ref="430588942" lat="45.0215963" lon="39.0287082"/>
+<nd ref="295171337" lat="45.0223692" lon="39.0290262"/>
+<tag k="highway" v="residential"/>
+<tag k="lit" v="yes"/>
+<tag k="name" v="улица Димитрова"/>
+<tag k="name:en" v="Dimitrova Street"/>
+<tag k="name:ru" v="улица Димитрова"/>
+<tag k="oneway" v="yes"/>
+<tag k="surface" v="asphalt"/>
+</way>

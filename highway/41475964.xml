@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="41475964">
+<nd ref="295173059" lat="45.0183914" lon="39.0329279"/>
+<nd ref="511119269" lat="45.0183621" lon="39.0330564"/>
+<nd ref="1221310465" lat="45.0181052" lon="39.0342821"/>
+<nd ref="1555881025" lat="45.0178630" lon="39.0354344"/>
+<nd ref="6487107199" lat="45.0176945" lon="39.0362152"/>
+<nd ref="510146831" lat="45.0176034" lon="39.0366375"/>
+<nd ref="511119303" lat="45.0175155" lon="39.0370506"/>
+<nd ref="511119288" lat="45.0174941" lon="39.0371518"/>
+<nd ref="511119323" lat="45.0174133" lon="39.0375408"/>
+<nd ref="1649755915" lat="45.0170653" lon="39.0391546"/>
+<nd ref="1649755912" lat="45.0168321" lon="39.0402315"/>
+<nd ref="511119367" lat="45.0165981" lon="39.0413380"/>
+<nd ref="511119204" lat="45.0165443" lon="39.0415777"/>
+<tag k="agricultural" v="destination"/>
+<tag k="hgv" v="destination"/>
+<tag k="highway" v="primary"/>
+<tag k="lanes" v="3"/>
+<tag k="maxspeed" v="60"/>
+<tag k="name" v="Ставропольская улица"/>
+<tag k="name:en" v="Stavropolskaya Street"/>
+<tag k="name:ru" v="Ставропольская улица"/>
+<tag k="oneway" v="yes"/>
+<tag k="source" v="AlexAR Mapping Project"/>
+<tag k="surface" v="asphalt"/>
+<tag k="trolley_wire" v="yes"/>
+<tag k="turn:lanes" v="none|none|none"/>
+</way>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<relation id="13183694">
+<member type="way" ref="980966537" role="outer">
+<nd lat="45.0215684" lon="39.0290503"/>
+<nd lat="45.0215611" lon="39.0290860"/>
+<nd lat="45.0221511" lon="39.0293273"/>
+<nd lat="45.0221584" lon="39.0292915"/>
+</member>
+<member type="way" ref="715090616" role="outer">
+<nd lat="45.0215684" lon="39.0290503"/>
+<nd lat="45.0216025" lon="39.0288836"/>
+<nd lat="45.0217501" lon="39.0289440"/>
+<nd lat="45.0220452" lon="39.0290647"/>
+<nd lat="45.0221925" lon="39.0291249"/>
+<nd lat="45.0221584" lon="39.0292915"/>
+</member>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="202"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="building" v="apartments"/>
+<tag k="building:flats" v="78"/>
+<tag k="building:levels" v="10"/>
+<tag k="building:levels:underground" v="1"/>
+<tag k="type" v="multipolygon"/>
+</relation>

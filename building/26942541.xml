@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="26942541">
+<nd ref="295188530" lat="45.0167871" lon="39.0307787"/>
+<nd ref="295188339" lat="45.0169819" lon="39.0298758"/>
+<nd ref="295188338" lat="45.0174121" lon="39.0300616"/>
+<nd ref="295188342" lat="45.0173594" lon="39.0303061"/>
+<nd ref="295188341" lat="45.0171915" lon="39.0302336"/>
+<nd ref="295188470" lat="45.0172077" lon="39.0301585"/>
+<nd ref="295188345" lat="45.0170754" lon="39.0301013"/>
+<nd ref="295188475" lat="45.0169523" lon="39.0306715"/>
+<nd ref="295188474" lat="45.0170771" lon="39.0307254"/>
+<nd ref="295188541" lat="45.0170419" lon="39.0308887"/>
+<nd ref="295188530" lat="45.0167871" lon="39.0307787"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="97/3"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Айвазовского"/>
+<tag k="amenity" v="hospital"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="5"/>
+<tag k="contact:phone" v="+7 861 2337801"/>
+<tag k="garmin_type" v="0x13"/>
+<tag k="healthcare" v="hospital"/>
+<tag k="name" v="Городская больница №3"/>
+</way>

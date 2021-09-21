@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="672128158">
+<nd ref="500585123" lat="45.0214833" lon="39.0352177"/>
+<nd ref="6152370002" lat="45.0215156" lon="39.0353732"/>
+<nd ref="6294008010" lat="45.0215859" lon="39.0355133"/>
+<nd ref="6294008011" lat="45.0213400" lon="39.0361624"/>
+<nd ref="6294008012" lat="45.0206829" lon="39.0369769"/>
+<nd ref="7796599001" lat="45.0201909" lon="39.0374868"/>
+<nd ref="7796599002" lat="45.0200291" lon="39.0377141"/>
+<nd ref="7796599003" lat="45.0200002" lon="39.0377550"/>
+<tag k="bicycle" v="no"/>
+<tag k="highway" v="path"/>
+<tag k="horse" v="no"/>
+<tag k="incline" v="10%"/>
+<tag k="surface" v="ground"/>
+<tag k="width" v="0.5"/>
+</way>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="27088894">
+<nd ref="295161597" lat="45.0154742" lon="39.0467572"/>
+<nd ref="2401150669" lat="45.0154871" lon="39.0465702"/>
+<nd ref="510148123" lat="45.0155131" lon="39.0464552"/>
+<nd ref="295161725" lat="45.0157068" lon="39.0459837"/>
+<nd ref="4823243150" lat="45.0157613" lon="39.0458474"/>
+<nd ref="295161729" lat="45.0158184" lon="39.0456570"/>
+<nd ref="1234702304" lat="45.0158916" lon="39.0453243"/>
+<nd ref="2906916068" lat="45.0161139" lon="39.0443132"/>
+<nd ref="2400056196" lat="45.0164746" lon="39.0426722"/>
+<nd ref="2384109816" lat="45.0165069" lon="39.0425284"/>
+<nd ref="2906916079" lat="45.0165168" lon="39.0424848"/>
+<nd ref="4815911723" lat="45.0165647" lon="39.0422767"/>
+<nd ref="4815911724" lat="45.0165777" lon="39.0422200"/>
+<nd ref="4815911729" lat="45.0166584" lon="39.0418690"/>
+<nd ref="4815911728" lat="45.0166720" lon="39.0418101"/>
+<nd ref="511119212" lat="45.0167109" lon="39.0416408"/>
+<nd ref="6489365548" lat="45.0168228" lon="39.0411131"/>
+<nd ref="1832162191" lat="45.0171521" lon="39.0395612"/>
+<nd ref="1968109594" lat="45.0173925" lon="39.0384546"/>
+<nd ref="1968109596" lat="45.0175497" lon="39.0377374"/>
+<nd ref="511119311" lat="45.0175783" lon="39.0376030"/>
+<nd ref="511119295" lat="45.0176610" lon="39.0372145"/>
+<nd ref="485724359" lat="45.0176960" lon="39.0370461"/>
+<nd ref="485724346" lat="45.0179747" lon="39.0356759"/>
+<nd ref="485724403" lat="45.0182383" lon="39.0344240"/>
+<tag k="agricultural" v="destination"/>
+<tag k="hgv" v="destination"/>
+<tag k="highway" v="primary"/>
+<tag k="lanes" v="3"/>
+<tag k="maxspeed" v="60"/>
+<tag k="name" v="Ставропольская улица"/>
+<tag k="name:en" v="Stavropolskaya Street"/>
+<tag k="name:ru" v="Ставропольская улица"/>
+<tag k="oneway" v="yes"/>
+<tag k="source" v="AlexAR Mapping Project"/>
+<tag k="surface" v="asphalt"/>
+<tag k="trolley_wire" v="yes"/>
+<tag k="turn:lanes" v="none|none|none"/>
+</way>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="259185574">
+<nd ref="485724403" lat="45.0182383" lon="39.0344240"/>
+<nd ref="1836557915" lat="45.0185144" lon="39.0331232"/>
+<nd ref="496130866" lat="45.0185413" lon="39.0329907"/>
+<tag k="agricultural" v="destination"/>
+<tag k="hgv" v="destination"/>
+<tag k="highway" v="primary"/>
+<tag k="lanes" v="3"/>
+<tag k="maxspeed" v="60"/>
+<tag k="name" v="Ставропольская улица"/>
+<tag k="name:en" v="Stavropolskaya Street"/>
+<tag k="name:ru" v="Ставропольская улица"/>
+<tag k="oneway" v="yes"/>
+<tag k="source" v="AlexAR Mapping Project"/>
+<tag k="surface" v="asphalt"/>
+<tag k="trolley_wire" v="yes"/>
+<tag k="turn:lanes" v="left;through|through|through"/>
+</way>

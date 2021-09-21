@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="165237603">
+<nd ref="1767977209" lat="45.0193162" lon="39.0266505"/>
+<nd ref="1767977225" lat="45.0194229" lon="39.0266423"/>
+<nd ref="1767977227" lat="45.0194303" lon="39.0268348"/>
+<nd ref="1767977211" lat="45.0193236" lon="39.0268430"/>
+<nd ref="1767977209" lat="45.0193162" lon="39.0266505"/>
+<tag k="addr:housenumber" v="161"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица КИМ"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="1"/>
+</way>

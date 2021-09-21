@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="169098416">
+<nd ref="506377211" lat="45.0186961" lon="39.0334418"/>
+<nd ref="506377213" lat="45.0186412" lon="39.0336913"/>
+<nd ref="506377215" lat="45.0185466" lon="39.0341319"/>
+<nd ref="506377217" lat="45.0185054" lon="39.0343237"/>
+<nd ref="506377212" lat="45.0184634" lon="39.0345193"/>
+<tag k="footway" v="sidewalk"/>
+<tag k="highway" v="footway"/>
+<tag k="surface" v="paving_stones"/>
+</way>

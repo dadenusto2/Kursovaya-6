@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="31789177">
+<nd ref="355897102" lat="45.0204381" lon="39.0307166"/>
+<nd ref="355897103" lat="45.0198731" lon="39.0304731"/>
+<nd ref="355897104" lat="45.0200321" lon="39.0297350"/>
+<nd ref="355897105" lat="45.0205178" lon="39.0299444"/>
+<nd ref="355897106" lat="45.0205593" lon="39.0297515"/>
+<nd ref="355897087" lat="45.0198138" lon="39.0294301"/>
+<nd ref="355897088" lat="45.0197726" lon="39.0296212"/>
+<nd ref="355897089" lat="45.0198614" lon="39.0296595"/>
+<nd ref="839737568" lat="45.0196306" lon="39.0307312"/>
+<nd ref="567006642" lat="45.0197939" lon="39.0308016"/>
+<nd ref="355897100" lat="45.0198178" lon="39.0306904"/>
+<nd ref="355897101" lat="45.0203905" lon="39.0309372"/>
+<nd ref="355897102" lat="45.0204381" lon="39.0307166"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="149"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="university"/>
+<tag k="building:levels" v="4"/>
+<tag k="fire_rank" v="2"/>
+<tag k="operator" v="RU-KDA-12-3"/>
+<tag k="start_date" v="1971"/>
+</way>

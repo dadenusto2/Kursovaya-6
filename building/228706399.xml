@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="228706399">
+<nd ref="2373713253" lat="45.0193623" lon="39.0278193"/>
+<nd ref="9108633981" lat="45.0192617" lon="39.0277778"/>
+<nd ref="9108633982" lat="45.0192613" lon="39.0276308"/>
+<nd ref="9108633971" lat="45.0193041" lon="39.0274230"/>
+<nd ref="6691221899" lat="45.0194301" lon="39.0274148"/>
+<nd ref="9108633972" lat="45.0194443" lon="39.0274207"/>
+<nd ref="2373713253" lat="45.0193623" lon="39.0278193"/>
+<tag k="addr:housenumber" v="220"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="retail"/>
+<tag k="building:levels" v="2"/>
+</way>

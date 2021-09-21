@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="41193614">
+<nd ref="503270863" lat="45.0190877" lon="39.0354120"/>
+<nd ref="503270865" lat="45.0189774" lon="39.0353678"/>
+<nd ref="503270868" lat="45.0189542" lon="39.0354837"/>
+<nd ref="503270870" lat="45.0190645" lon="39.0355279"/>
+<nd ref="503270863" lat="45.0190877" lon="39.0354120"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="1"/>
+<tag k="power" v="substation"/>
+</way>

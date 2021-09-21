@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="699896440">
+<nd ref="6572540436" lat="45.0174091" lon="39.0257556"/>
+<nd ref="6572540437" lat="45.0173598" lon="39.0257636"/>
+<nd ref="6572540438" lat="45.0173750" lon="39.0258655"/>
+<nd ref="6572540439" lat="45.0174224" lon="39.0258548"/>
+<nd ref="6572540436" lat="45.0174091" lon="39.0257556"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="4"/>
+<tag k="addr:street" v="улица Степана Разина"/>
+<tag k="building" v="yes"/>
+</way>

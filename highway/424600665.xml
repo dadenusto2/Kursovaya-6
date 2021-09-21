@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="424600665">
+<nd ref="4240015655" lat="45.0184434" lon="39.0329508"/>
+<nd ref="295173059" lat="45.0183914" lon="39.0329279"/>
+<tag k="highway" v="tertiary"/>
+<tag k="name" v="улица Айвазовского"/>
+<tag k="name:en" v="Aivazovskogo Street"/>
+<tag k="name:ru" v="улица Айвазовского"/>
+</way>

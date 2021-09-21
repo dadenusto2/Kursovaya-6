@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="38070175">
+<nd ref="447754119" lat="45.0197273" lon="39.0315469"/>
+<nd ref="3233148649" lat="45.0200554" lon="39.0316785"/>
+<tag k="access" v="private"/>
+<tag k="highway" v="service"/>
+<tag k="service" v="driveway"/>
+</way>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="37374066">
+<nd ref="436215479" lat="45.0176853" lon="39.0283292"/>
+<nd ref="1806099272" lat="45.0179277" lon="39.0284378"/>
+<nd ref="436215478" lat="45.0179601" lon="39.0282932"/>
+<nd ref="1806099274" lat="45.0180117" lon="39.0283163"/>
+<nd ref="436215476" lat="45.0180574" lon="39.0281123"/>
+<nd ref="1691169468" lat="45.0179428" lon="39.0280609"/>
+<nd ref="1691169451" lat="45.0179220" lon="39.0281539"/>
+<nd ref="1691169440" lat="45.0178575" lon="39.0281250"/>
+<nd ref="1691169443" lat="45.0178779" lon="39.0280341"/>
+<nd ref="436215488" lat="45.0177629" lon="39.0279825"/>
+<nd ref="436215479" lat="45.0176853" lon="39.0283292"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="164"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="3"/>
+<tag k="name" v="Дом охотника"/>
+</way>

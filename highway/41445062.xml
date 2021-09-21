@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="41445062">
+<nd ref="295164401" lat="45.0193439" lon="39.0284418"/>
+<nd ref="3906855371" lat="45.0194076" lon="39.0284683"/>
+<nd ref="496127759" lat="45.0194410" lon="39.0284833"/>
+<tag k="garmin_type" v="0x5"/>
+<tag k="highway" v="tertiary"/>
+<tag k="lanes" v="2"/>
+<tag k="name" v="улица Димитрова"/>
+<tag k="name:en" v="Dimitrova Street"/>
+<tag k="name:ru" v="улица Димитрова"/>
+<tag k="oneway" v="yes"/>
+<tag k="source" v="AlexAR Mapping Project"/>
+<tag k="surface" v="asphalt"/>
+</way>

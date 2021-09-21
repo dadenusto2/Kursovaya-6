@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="715090615">
+<nd ref="6721169747" lat="45.0215441" lon="39.0288548"/>
+<nd ref="6721169748" lat="45.0215083" lon="39.0290508"/>
+<nd ref="6721169749" lat="45.0211315" lon="39.0289130"/>
+<nd ref="6721169750" lat="45.0211673" lon="39.0287170"/>
+<nd ref="6721169747" lat="45.0215441" lon="39.0288548"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="200"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="amenity" v="university"/>
+<tag k="building" v="university"/>
+<tag k="building:levels" v="7"/>
+<tag k="building:levels:underground" v="1"/>
+<tag k="name" v="Кубанский государственный университет"/>
+<tag k="official_name" v="Федеральное государственное бюджетное образовательное учреждение высшего образования «Кубанский государственный университет»"/>
+<tag k="phone" v="+7 861 2199502"/>
+<tag k="website" v="https://www.kubsu.ru/"/>
+</way>

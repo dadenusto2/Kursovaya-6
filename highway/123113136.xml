@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="123113136">
+<nd ref="480759492" lat="45.0193099" lon="39.0286127"/>
+<nd ref="635766895" lat="45.0190767" lon="39.0296840"/>
+<nd ref="635766914" lat="45.0186221" lon="39.0318404"/>
+<nd ref="507461649" lat="45.0184189" lon="39.0328027"/>
+<tag k="highway" v="primary"/>
+<tag k="lanes" v="3"/>
+<tag k="maxspeed" v="40"/>
+<tag k="name" v="Ставропольская улица"/>
+<tag k="name:en" v="Stavropolskaya Street"/>
+<tag k="name:ru" v="Ставропольская улица"/>
+<tag k="oneway" v="yes"/>
+<tag k="source:maxspeed" v="sign"/>
+<tag k="surface" v="asphalt"/>
+<tag k="trolley_wire" v="yes"/>
+<tag k="turn:lanes" v="none|none|none"/>
+</way>

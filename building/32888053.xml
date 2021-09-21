@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="32888053">
+<nd ref="370412992" lat="45.0221662" lon="39.0299459"/>
+<nd ref="370412968" lat="45.0219158" lon="39.0301203"/>
+<nd ref="370413131" lat="45.0218702" lon="39.0299890"/>
+<nd ref="370413189" lat="45.0216906" lon="39.0301141"/>
+<nd ref="370413144" lat="45.0216392" lon="39.0299665"/>
+<nd ref="370413006" lat="45.0218633" lon="39.0298104"/>
+<nd ref="370413029" lat="45.0219020" lon="39.0299214"/>
+<nd ref="370412999" lat="45.0221078" lon="39.0297781"/>
+<nd ref="370412992" lat="45.0221662" lon="39.0299459"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="176"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="building" v="dormitory"/>
+<tag k="building:levels" v="9"/>
+</way>

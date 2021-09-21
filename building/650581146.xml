@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="650581146">
+<nd ref="6102837706" lat="45.0178821" lon="39.0294053"/>
+<nd ref="6102837705" lat="45.0178506" lon="39.0295500"/>
+<nd ref="6102837704" lat="45.0179469" lon="39.0295920"/>
+<nd ref="6102837703" lat="45.0179784" lon="39.0294473"/>
+<nd ref="6102837706" lat="45.0178821" lon="39.0294053"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="160А"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="building" v="yes"/>
+<tag k="name" v="Паталого-анатомическое отделение"/>
+</way>

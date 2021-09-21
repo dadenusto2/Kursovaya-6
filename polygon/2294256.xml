@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<relation id="2294256">
+<member type="way" ref="165237592" role="inner">
+<nd lat="45.0198104" lon="39.0284582"/>
+<nd lat="45.0198182" lon="39.0284613"/>
+<nd lat="45.0198082" lon="39.0285115"/>
+<nd lat="45.0198604" lon="39.0285329"/>
+<nd lat="45.0198715" lon="39.0284821"/>
+<nd lat="45.0198104" lon="39.0284582"/>
+</member>
+<member type="way" ref="165237595" role="outer">
+<nd lat="45.0198771" lon="39.0284612"/>
+<nd lat="45.0199481" lon="39.0284924"/>
+<nd lat="45.0199016" lon="39.0287047"/>
+<nd lat="45.0198538" lon="39.0286837"/>
+<nd lat="45.0198451" lon="39.0287259"/>
+<nd lat="45.0197603" lon="39.0286911"/>
+<nd lat="45.0197764" lon="39.0286128"/>
+<nd lat="45.0196317" lon="39.0285550"/>
+<nd lat="45.0196628" lon="39.0283992"/>
+<nd lat="45.0197358" lon="39.0284284"/>
+<nd lat="45.0197382" lon="39.0284162"/>
+<nd lat="45.0196601" lon="39.0283870"/>
+<nd lat="45.0196769" lon="39.0282974"/>
+<nd lat="45.0197556" lon="39.0283269"/>
+<nd lat="45.0197855" lon="39.0281687"/>
+<nd lat="45.0199238" lon="39.0282219"/>
+<nd lat="45.0198771" lon="39.0284612"/>
+</member>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="143"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="1"/>
+<tag k="type" v="multipolygon"/>
+</relation>

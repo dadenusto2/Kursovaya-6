@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="37855877">
+<nd ref="444008819" lat="45.0214613" lon="39.0262232"/>
+<nd ref="444008818" lat="45.0214279" lon="39.0263823"/>
+<nd ref="444008832" lat="45.0216792" lon="39.0264878"/>
+<nd ref="444008824" lat="45.0217125" lon="39.0263287"/>
+<nd ref="444008819" lat="45.0214613" lon="39.0262232"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="6/2"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица 2-я Пятилетка"/>
+<tag k="building" v="kindergarten"/>
+<tag k="building:levels" v="2"/>
+</way>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="37374055">
+<nd ref="436215444" lat="45.0172283" lon="39.0278571"/>
+<nd ref="436215456" lat="45.0171964" lon="39.0280084"/>
+<nd ref="436213556" lat="45.0176180" lon="39.0281862"/>
+<nd ref="436215439" lat="45.0176499" lon="39.0280349"/>
+<nd ref="436215444" lat="45.0172283" lon="39.0278571"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="166"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Димитрова"/>
+<tag k="amenity" v="clinic"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="3"/>
+<tag k="email" v="kspk@mail.ru"/>
+<tag k="healthcare" v="clinic"/>
+<tag k="name" v="Станция переливания крови"/>
+<tag k="opening_hours" v="Mo-Fr 08:00-12:00"/>
+<tag k="short_name" v="ГБУЗ СПК"/>
+<tag k="website" v="http://Gbuzspk.ru"/>
+</way>

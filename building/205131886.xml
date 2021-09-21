@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="205131886">
+<nd ref="2151118284" lat="45.0206377" lon="39.0335024"/>
+<nd ref="2151118288" lat="45.0205683" lon="39.0339076"/>
+<nd ref="2151118268" lat="45.0207713" lon="39.0339772"/>
+<nd ref="5331705198" lat="45.0207934" lon="39.0338480"/>
+<nd ref="5331705197" lat="45.0209585" lon="39.0339046"/>
+<nd ref="2187728117" lat="45.0210058" lon="39.0336286"/>
+<nd ref="2151118284" lat="45.0206377" lon="39.0335024"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="149/1"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="2"/>
+<tag k="leisure" v="sports_centre"/>
+<tag k="name" v="Бассейн КубГУ"/>
+<tag k="sport" v="swimming"/>
+</way>

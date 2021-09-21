@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="44677834">
+<nd ref="567006642" lat="45.0197939" lon="39.0308016"/>
+<nd ref="839737568" lat="45.0196306" lon="39.0307312"/>
+<nd ref="839737563" lat="45.0194779" lon="39.0314383"/>
+<nd ref="567006643" lat="45.0196389" lon="39.0315083"/>
+<nd ref="567006642" lat="45.0197939" lon="39.0308016"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="149"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="amenity" v="university"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="5"/>
+<tag k="name" v="Главный корпус КубГУ"/>
+<tag k="start_date" v="1971"/>
+</way>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="717182410">
+<nd ref="6735609312" lat="45.0182825" lon="39.0327362"/>
+<nd ref="6735609313" lat="45.0181280" lon="39.0326705"/>
+<nd ref="6735609314" lat="45.0181113" lon="39.0327491"/>
+<nd ref="6735609315" lat="45.0182658" lon="39.0328148"/>
+<nd ref="6735609312" lat="45.0182825" lon="39.0327362"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:housenumber" v="117/1"/>
+<tag k="addr:street" v="улица Айвазовского"/>
+<tag k="building" v="yes"/>
+</way>

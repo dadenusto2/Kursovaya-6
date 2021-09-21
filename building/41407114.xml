@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="41407114">
+<nd ref="506377253" lat="45.0189099" lon="39.0331637"/>
+<nd ref="506377254" lat="45.0189299" lon="39.0330710"/>
+<nd ref="506377255" lat="45.0188177" lon="39.0330228"/>
+<nd ref="567006640" lat="45.0188494" lon="39.0328672"/>
+<nd ref="506377250" lat="45.0189770" lon="39.0329220"/>
+<nd ref="506377251" lat="45.0192304" lon="39.0330311"/>
+<nd ref="506377252" lat="45.0191772" lon="39.0332787"/>
+<nd ref="506377253" lat="45.0189099" lon="39.0331637"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="151А"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="public"/>
+<tag k="building:levels" v="4"/>
+<tag k="name" v="Государственный архив"/>
+<tag k="wikidata" v="Q4146771"/>
+<tag k="wikipedia" v="ru:Государственный архив Краснодарского края"/>
+</way>
